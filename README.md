@@ -1,4 +1,4 @@
-## Predicting home sale prices is 2010 based on information from 2005 - 2009
+## Predicting home sale prices, in Ames, in 2010, based on information from 2005 - 2009
 
 
     - Analyze a complex dataset & explicitly state your assumptions.
